@@ -1,0 +1,27 @@
+---
+name: Guide task
+about: Work on one of the four rule guides (ISO 42001, EU AI Act, GDPR, NIST)
+title: "[Guide] "
+labels: guide
+---
+
+## Which guide?
+
+<!-- ISO 42001, EU AI Act (Article 50), GDPR or NIST -->
+
+## What needs to be done?
+
+<!-- For example: write the outline, fill in rows 1-10 of the table, write the setup steps. -->
+
+## Done when
+
+- [ ] The table has one row for each rule, with all four columns filled in
+- [ ] Setup steps are written
+- [ ] "What AgenTrust does not cover" is listed
+- [ ] The review partner has checked it
+
+## Due date
+
+<!-- See the timeline in the README. -->
+
+## Notes
